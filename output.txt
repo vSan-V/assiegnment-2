@@ -1,0 +1,52 @@
+1> See the balance
+2> update phone & pin 
+3> insert all element
+1
+enter the acc_no
+1235
+250090
+1> See the balance
+2> update phone & pin 
+3> insert all element
+2
+enter the acc_no
+1235
+enter the phone no
+127865
+enter the pin no
+2389
+driver loaded
+connection
+12 Stan 234565 st145 23464 kallao joint SBI 765645
+1235 Darun 1507 dar123 250090 Thitakudi Joint ICIC 123456
+12345 Sanjai 1511 San123 25000 kallai benificiary SBi 9876534
+12445 jeevi 1410 Jee123 50000 kallai benificiary HDFC 9876524
+1> See the balance
+2> update phone & pin 
+3> insert all element
+3
+enter the acc_no
+12
+enter the phone no
+7856
+enter the pin no
+2343
+enter the acc name
+jhon
+enter the pan no
+jh897
+enter the balance
+34000
+enter the Address
+japan
+enter the Acc_type
+benificiry
+enter the Bank
+swize
+driver loaded
+connection
+insertion complete;
+1> See the balance
+2> update phone & pin 
+3> insert all element
+4
